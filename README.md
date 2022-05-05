@@ -15,7 +15,7 @@
 
 ---
 
-<h1> <💎> Alpha-X <💎> </h1>
+<h1> <💎> Kaviyah Whatsapp Bot 🥰 <💎> </h1>
 
 ```
 Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
@@ -100,7 +100,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ### `• Deploy To Heroku 🚀`
 
 # fork this repo `if it doesn't working` and make installer your self then deploy 🔩️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X/Alpha-X-WA-Bot-Installer-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaviyaofc/manika02)
 
 > Click the logo to watch Bot tutorial video ✅
 
